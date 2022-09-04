@@ -1,3 +1,7 @@
-# Double-strand
+![](assets/DoubleStrandLogo.png).   
+   
+# Double-strand. 
 
+
+  
 ## Finding structure in biological data sets
