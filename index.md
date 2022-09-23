@@ -8,4 +8,4 @@
 
 ### Projects  
 
-[Circulating fungal rRNA detection](https://double-strand.github.io/BloodBorneFungalPathogens) 
+[Circulating fungal rRNA detection](https://double-strand.github.io/BloodBorneFungalPathogens/index.md) 
