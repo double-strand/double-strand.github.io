@@ -5,3 +5,5 @@
 
   
 ## Finding structure in biological data sets
+
+### Projects  
