@@ -1,1 +1,29 @@
-theme: jekyll-theme-tactile
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: double-strand Lab
+email: manuelxduval@double-strand.com
+description: Molecular Dx
+url: "www.double-strand.com" 
+#twitter_username: LHDnets
+#scholar_username: zEB7niMAAAAJ
+#linkedin_username: lecomptedelhd
+github_username: manuel.x.duval@gmail.com
+
+include: ['_pages']
+exclude: ['bower_components/*.md','bower_components/*.html','_pages/*.Rmd', './*.R']
+
+# Build settings
+markdown: kramdown
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+gems:
+  - jekyll-sitemap
+  - jekyll-redirect-from
