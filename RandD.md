@@ -1,9 +1,17 @@
 ---
 layout: default
 title: R&D
-nav_order: 4
+permalink: /rnd/
 ---
+
+<nav>
+  <a href="/">Home</a> |
+  <a href="/about/">About</a> |
+  <a href="/team/">Team</a> |
+  <a href="/rnd/">R&D</a> |
+  <a href="/contact/">Contact</a>
+</nav>
 
 # Research & Development
 
-Exploring and validating biomarkers for clinical utility.
+Our research focuses on nucleic acid-based analytes to enable accurate, non-invasive diagnostics.

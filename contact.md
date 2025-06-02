@@ -1,9 +1,18 @@
 ---
 layout: default
 title: Contact
-nav_order: 5
+permalink: /contact/
 ---
 
-# Get in Touch
+<nav>
+  <a href="/">Home</a> |
+  <a href="/about/">About</a> |
+  <a href="/team/">Team</a> |
+  <a href="/rnd/">R&D</a> |
+  <a href="/contact/">Contact</a>
+</nav>
 
-Email us at [info@double-strand.com](mailto:manuelxduval@double-strand.com)
+# Contact Us
+
+Have questions or partnership ideas?  
+📧 Email: [info@double-strand.com](mailto:manuelxduval@double-strand.com)

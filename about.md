@@ -1,9 +1,17 @@
 ---
 layout: default
 title: About
-nav_order: 2
+permalink: /about/
 ---
 
-# About Us
+<nav>
+  <a href="/">Home</a> |
+  <a href="/about/">About</a> |
+  <a href="/team/">Team</a> |
+  <a href="/rnd/">R&D</a> |
+  <a href="/contact/">Contact</a>
+</nav>
 
-Double-Strand LLC is dedicated to advancing molecular diagnostics for real-world impact.
+# About Double-Strand LLC
+
+We are focused on discovering and licensing novel molecular biomarkers for non-invasive diagnostic applications.
