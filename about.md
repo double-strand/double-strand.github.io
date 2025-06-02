@@ -16,7 +16,8 @@ permalink: /about/
 We are focused on discovering and licensing novel molecular biomarkers for non-invasive diagnostic applications.
 
 
-<br /><hr /><br />
+<br /><hr /><br />  
+
 <div style="background-color: #333; color: white; text-align: center; padding: 20px; width: 100%;">
   <p>© 2025 double-strand LLC. All rights reserved.</p>
   <p>
