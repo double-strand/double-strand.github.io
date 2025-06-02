@@ -15,8 +15,9 @@ permalink: /contact/
 
 Have questions or partnership ideas?  
 📧 Email: [info@double-strand.com](mailto:manuelxduval@double-strand.com)
-
-<br /><hr /><br />
+  
+<hr>  
+  
 <div style="background-color: #333; color: white; text-align: center; padding: 20px; width: 100%;">
   <p>© 2025 double-strand LLC. All rights reserved.</p>
   <p>

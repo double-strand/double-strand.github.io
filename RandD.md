@@ -14,8 +14,10 @@ permalink: /rnd/
 # Research & Development
 
 Our research focuses on nucleic acid-based analytes to enable accurate, non-invasive diagnostics.
+  
+<hr>  
+  
 
-<br /><hr /><br />
 <div style="background-color: #333; color: white; text-align: center; padding: 20px; width: 100%;">
   <p>© 2025 double-strand LLC. All rights reserved.</p>
   <p>
