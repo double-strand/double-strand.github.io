@@ -1,0 +1,7 @@
+<div class="site-branding">
+  {% if site.logo %}
+    <img src="{{ site.logo | relative_url }}" alt="{{ site.title }}" class="site-logo">
+  {% endif %}
+  <span class="site-title">{{ site.title }}</span>
+</div>
+

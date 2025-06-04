@@ -1,0 +1,9 @@
+.site-branding {
+  display: flex;
+  align-items: center;
+}
+.site-logo {
+  height: 50px;
+  margin-right: 10px;
+}
+
