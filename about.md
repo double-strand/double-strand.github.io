@@ -15,6 +15,8 @@ permalink: /about/
 
 We are focused on discovering and licensing novel molecular biomarkers for non-invasive diagnostic applications.
 
+
+<img src="/assets/agreement.png" alt="LicenseAgreement" style="width: 400px; height: auto;">      
   
 <hr>  
   

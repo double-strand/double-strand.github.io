@@ -15,7 +15,7 @@ permalink: /rnd/
 
 Our research focuses on nucleic acid-based analytes to enable accurate, non-invasive diagnostics.
   
-<img src="/assets/agreement.png" alt="LicenseAgreement" style="width: 400px; height: auto;">      
+<img src="/assets/labwork.png" alt="LicenseAgreement" style="width: 400px; height: auto;">      
 
 
   
