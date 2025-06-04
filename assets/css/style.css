@@ -3,7 +3,11 @@
   align-items: center;
 }
 .site-logo {
-  height: 50px;
+  height: 60px;
   margin-right: 10px;
 }
-
+.site-title {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 1.8em;
+}
