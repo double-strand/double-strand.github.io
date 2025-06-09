@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Non-Invasive Blood Test for Oncology — Sensitive and Specific Detection
 permalink: /
 ---
 <img src="assets/double-strandLLC.png" alt="Double-Strand Logo" style="width: 100px; height: auto;">  
@@ -12,12 +12,12 @@ permalink: /
   <a href="/contact/">Contact</a>
 </nav>
 
-# Welcome to Double-Strand LLC
+# Blood test platform focused on non-invasive, sensitive, and specific detection of cancer-related biomarkers. 
 
 We discover and develop non-invasive molecular tests based on nucleic acid analytes.
 
 
-<img src="assets/plasmaAnalytes.png" alt="Double-Strand Logo" style="width: 400px; height: auto;">     
+<img src="assets/plasmaAnalytes.png" alt="Double-Strand Logo" style="width: 200px; height: auto;">     
   
 <hr>  
 

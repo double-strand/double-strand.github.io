@@ -1,5 +1,15 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8CK10GD9RF"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+
+  function initGA() {
+    gtag('js', new Date());
+    gtag('config', 'G-XXXXXXX');
+  }
+</script>  
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -21,5 +31,35 @@
       <p>© {{ site.title }} {{ site.time | date: '%Y' }}</p>
     </footer>
   </body>
+  <div id="cookie-consent" style="position:fixed;bottom:0;width:100%;background:#222;color:white;padding:1em;text-align:center;z-index:1000;">
+  This site uses Google Analytics to understand user behavior. 
+  <button onclick="acceptCookies()" style="margin-left:10px;">Accept</button>
+  <button onclick="denyCookies()" style="margin-left:10px;">Deny</button>
+</div>
+
+<script>
+  function acceptCookies() {
+    localStorage.setItem("ga_consent", "accepted");
+    initGA();
+    document.getElementById("cookie-consent").style.display = "none";
+  }
+
+  function denyCookies() {
+    localStorage.setItem("ga_consent", "denied");
+    document.getElementById("cookie-consent").style.display = "none";
+  }
+
+  // Auto-check on load
+  window.onload = function() {
+    const consent = localStorage.getItem("ga_consent");
+    if (consent === "accepted") {
+      initGA();
+      document.getElementById("cookie-consent").style.display = "none";
+    } else if (consent === "denied") {
+      document.getElementById("cookie-consent").style.display = "none";
+    }
+  }
+</script>
+
 </html>
 
