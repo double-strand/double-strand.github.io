@@ -20,7 +20,7 @@ We discover and develop non-invasive molecular tests based on nucleic acid analy
 <img src="assets/plasmaAnalytes.png" alt="Double-Strand Logo" style="width: 200px; height: auto;">     
   
 <hr>  
-
+  
 <div style="background-color: #123456; color: white; text-align: center; padding: 5px; width: 100%;">
   <p>© 2025 double-strand LLC. All rights reserved.</p>
   <p>
@@ -66,3 +66,4 @@ We discover and develop non-invasive molecular tests based on nucleic acid analy
     }
   }
 </script>
+  
